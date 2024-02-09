@@ -7,7 +7,7 @@ const MENU = [
         title: "X-React",
         price: 24.9,
         description:
-          "Um hamburger tão bonito que me deu fome enquanto eu fazia esse layout para o projeto...",
+          "Um hamburger tão bonito que dá água na boca só de olhar, feito com muito amor e carinho...",
         cover: require("../../assets/products/cover/1.png"),
         thumbnail: require("../../assets/products/thumbnail/1.png"),
         ingredients: [
