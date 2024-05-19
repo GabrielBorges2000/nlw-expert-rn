@@ -25,7 +25,11 @@ O aplicativo de cardápio digital permite que os usuários visualizem os itens d
 
 ## Baixe o apk
 
-Baixe o apk no link `https://expo.dev//accounts/machadoazul2000/projects/nlw-expert-rn/builds/bbcfe7da-ae83-4ee2-b682-2bbb956bb49c` ou baixe utilizando o qr code abaixo:
+Baixe o apk no link:
+```
+https://expo.dev//accounts/machadoazul2000/projects/nlw-expert-rn/builds/bbcfe7da-ae83-4ee2-b682-2bbb956bb49c
+```
+ ou baixe utilizando o qr code abaixo:
 
 <img src="./assets/qr_code.png" alt="qr code para baixar o apk do app" />
 
